@@ -14,6 +14,8 @@ I'm passionate about Data Analytics and transforming raw data into meaningful bu
 - Python
 - Basic AI Tools
 
+
+
 ## 📊 My Projects
 
 ### 1. Sales Dashboard
@@ -40,3 +42,40 @@ To become a skilled Data Analyst and solve real-world business problems using da
 - Location: Bengaluru, India
 - GitHub:
 -  https://github.com/TharunKumar-ui-boop
+
+
+
+## 📊 Project 1: Blinkit Sales Analysis Dashboard
+
+![Blinkit Sales Dashboard](./Blinkit-Dashboard.png)
+
+### Project Overview
+An interactive Power BI dashboard designed to analyze Blinkit sales performance and outlet characteristics.
+
+### Key Performance Indicators
+- Total Sales: $1.20M
+- Average Sales: $141
+- Number of Items: 8,523
+- Average Rating: 3.9
+
+### Analysis
+- Sales by Item Type
+- Sales by Fat Content
+- Outlet Establishment Trends
+- Outlet Size Analysis
+- Outlet Location Analysis
+- Outlet Type Performance
+
+### Tools Used
+- Microsoft Power BI
+- Data Visualization
+- Data Analysis
+
+### Dashboard Features
+- Interactive filters
+- KPI cards
+- Sales comparison charts
+- Outlet performance analysis
+
+### Project Objective
+To explore sales performance and understand how product categories and outlet characteristics relate to sales
