@@ -38,8 +38,5 @@ To become a skilled Data Analyst and solve real-world business problems using da
 ## 📫 Connect With Me
 
 - Location: Bengaluru, India
-- GitHub: https://github.com/TharunKumar-ui-boop
--
-
-- Location: Bengaluru, India
-- GitHub: https://github.com/TharunKumar-ui-boop
+- GitHub:
+-  https://github.com/TharunKumar-ui-boop
