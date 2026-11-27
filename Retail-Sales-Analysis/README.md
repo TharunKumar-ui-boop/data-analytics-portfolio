@@ -35,5 +35,5 @@ Tharun Kumar
 
 ## Dashboard Preview
 
-![Retail Sales Dashboar]
-(Retail-Sales-Dashboard.png)
+![Retail Sales Dashboard](./
+Retail-Sales-Dashboard.png)
