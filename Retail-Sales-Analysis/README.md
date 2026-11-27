@@ -32,3 +32,8 @@ To develop practical data analytics skills and understand how data can support b
 Author
 
 Tharun Kumar
+
+## Dashboard Preview
+
+![Retail Sales Dashboar]
+(Retail-Sales-Dashboard.png)
